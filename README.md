@@ -11,7 +11,7 @@
 
 ## Installation
 
-### Project dependency
+### Dependencies
 
 Add `mix_audit` to the `deps` function in your project’s `mix.exs` file:
 
